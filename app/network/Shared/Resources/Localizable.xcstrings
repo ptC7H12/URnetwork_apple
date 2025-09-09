@@ -19913,7 +19913,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zuverlässigkeitsgewicht"
+            "value" : "Zuverlässigkeitsfaktor"
           }
         },
         "el" : {
